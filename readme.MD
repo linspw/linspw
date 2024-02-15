@@ -7,6 +7,18 @@
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Computer+Engineer+and+Software+Developer" alt="Computer Engineer and Software Developer" />
 </p>
 
+<details open> 
+  <summary><h4>📘 Some of my public personal projects</h4></summary>
+
+  <div style="margin-bottom: 16px;">
+  <img src="https://snown.com.br/images/logos/app-logo-normal-dark.svg" alt="Logo Snown" width="200px">
+  </div>
+
+  <p>
+  Collaborative platform I created for companies and individuals. It features project management and documentation tools.
+  </p>
+</details>
+
 ---
 
 <p align="center">
