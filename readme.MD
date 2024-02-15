@@ -7,11 +7,14 @@
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Computer+Engineer+and+Software+Developer" alt="Computer Engineer and Software Developer" />
 </p>
 
+---
 
 <p align="center">
-  <img align="center" src="/assets/cover.jpg" alt="Sow a thought, reap an action; sow an action, reap a habit; 
+  <img align="center" src="/assets/cover.png" alt="Sow a thought, reap an action; sow an action, reap a habit; 
 sow a habit, reap a character; sow a character, reap a destiny. - Stephen Covey" />
 </p>
+
+---
 
 <p align="center">
   <img height="180cm" src="https://github-readme-stats-one-bice.vercel.app/api?username=linspw&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true">
