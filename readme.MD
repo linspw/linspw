@@ -9,4 +9,4 @@
 
 [![Jessé Correia's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=linspw&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/linspw)
 
-[![Jessé Correia's github stats](https://github-readme-stats-5enwvj71w-linspw.vercel.app/api?username=linspw&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/linspw)
+[![Jessé Correia's github stats](https://github-readme-stats-5enwvj71w-linspw.vercel.app/api?username=linspw&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/linspw)
