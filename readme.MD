@@ -1,10 +1,6 @@
-# Jessé Correia Lins
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linspw&count_private=true)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0153FF&background=FFE2E200&center=true&random=false&width=435&lines=Jess%C3%A9+Correia+Lins" alt="Typing SVG" />
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=linspw&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linspw&langs_count=4"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linspw&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
