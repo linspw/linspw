@@ -19,6 +19,7 @@
   <img align="center" alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Yjs-6EEB83?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fyjs%2Fyjs&logoColor=white">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
